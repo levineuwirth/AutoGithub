@@ -1,0 +1,12 @@
+### USAGE:
+###
+### Specify the repos you would like the program to automatically update
+### One per line, in the following format:
+### Name(no spaces), Filepath
+### 
+### Example:
+###
+### Discordbot, /User/Desktop/Projects/Discordbot/
+###
+### Use '#' as an escape character to write comments
+Example /Place/Your/First/One/Here
